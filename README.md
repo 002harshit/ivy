@@ -1,2 +1,4 @@
 # Ivy
-- Utility library for C
+- util macros and functions
+- linear math functions
+- STL file format parsing
