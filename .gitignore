@@ -1,5 +1,7 @@
+*.a
 *.o
 *.s
 *.gch
 *.out
+*.bin
 *.stl.c
