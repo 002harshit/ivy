@@ -1,4 +1,4 @@
-#include "ivy.h"
+#include "../ivy.h"
 
 #include <alsa/asoundlib.h>
 
